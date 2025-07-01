@@ -208,5 +208,6 @@ End If
 
 **Autor:** Mario Pérez Landeros  
 **Tecnología usada:** VBA para Excel  
-**Objetivo:** Automatización de cálculos financieros
+**Objetivo:** Automatización de cálculos financieros  
+**Fecha:** 07 de junio del 2024
 
