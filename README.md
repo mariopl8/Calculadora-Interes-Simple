@@ -195,6 +195,17 @@ End If
 
 ---
 
+## Calculadora en funcionamiento
+* Caso práctico: Mario tiene una deuda por $25,000.00 para pagar dentro de 18 quincenas. Si la operación fue pactada a una tasa de interés simple igual al 31.56% anual ¿Cuánto tendrá que pagar? ¿Cuántos intereses generó?
+
+<img width="978" alt="Captura de pantalla 2025-07-01 a la(s) 2 13 19 a m" src="https://github.com/user-attachments/assets/ee1bc00f-1eab-4045-a2a0-2a62c107f50c" />
+
+<img width="699" alt="Captura de pantalla 2025-07-01 a la(s) 2 11 16 a m" src="https://github.com/user-attachments/assets/0b65db27-11f7-4e76-adeb-09a9c252524a" />
+
+<img width="1178" alt="Captura de pantalla 2025-07-01 a la(s) 2 12 22 a m" src="https://github.com/user-attachments/assets/3205ea92-7f99-4949-a9f7-ca1ea929b104" />
+
+
+
 **Autor:** Mario Pérez Landeros  
 **Tecnología usada:** VBA para Excel  
 **Objetivo:** Automatización de cálculos financieros
